@@ -1,7 +1,7 @@
 {
 	"name": "@titanium/barcode",
-	"version": "0.0.1",
-	"description": "Barcode Module for Titanium built on top of the ZXing library (Android) and AVFoundation (iOS).",
+	"version": "0.0.2",
+	"description": "Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)",
 	"main": "index.js",
 	"scripts": {
 		"list-files": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",

@@ -3,7 +3,7 @@
 ![https://www.npmjs.com/package/@titanium/barcode](https://img.shields.io/npm/v/@titanium/barcode.png)
 
 
-> Barcode Module for Titanium built on top of the ZXing library (Android) and AVFoundation (iOS).
+> Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)
 
 - [📝 Description](#-Description)
 - [🚀 Getting Started](#-Getting-Started)

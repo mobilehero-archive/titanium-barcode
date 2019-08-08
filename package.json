@@ -1,10 +1,12 @@
 {
 	"name": "@titanium/barcode",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)",
 	"main": "index.js",
 	"scripts": {
 		"list-files": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
+		"postinstall": "tiapp-remove-module ti.barcode && tiapp-add-module ti.barcode ios 2.0.4 && tiapp-add-module ti.barcode android 4.0.2",
+		"postuninstall": "tiapp-remove-module ti.barcode",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": {
@@ -12,6 +14,13 @@
 		"email": "brenton.house@gmail.com",
 		"url": "https://brenton.house"
 	},
+	"maintainers": [
+		{
+			"name": "Brenton House",
+			"email": "brenton.house@gmail.com",
+			"url": "https://brenton.house"
+		}
+	],
 	"repository": {
 		"type": "git",
 		"url": "github:brentonhouse/titanium-barcode"
@@ -39,6 +48,21 @@
 		"platform": [
 			"ios",
 			"android"
+		],
+		"native": [
+			{
+				"name": "ti.barcode",
+				"platform": "ios",
+				"version": "2.0.4"
+			},
+			{
+				"name": "ti.barcode",
+				"platform": "android",
+				"version": "4.0.2"
+			}
 		]
+	},
+	"dependencies": {
+		"@titanium/tiapp-xml": "^0.4.2"
 	}
 }

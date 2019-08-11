@@ -12,8 +12,8 @@ copyright: Copyright (c) 2010-Present by Axway Appcelerator.
 
 
 # these should not be edited
-name: barcode
-moduleid: ti.barcode
+name: titanium-barcode
+moduleid: titanium-barcode
 guid: fe2e658e-0eaf-44a6-b6d1-c074d6b986a3
 platform: iphone
 minsdk: 5.5.1.GA

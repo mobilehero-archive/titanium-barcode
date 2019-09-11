@@ -1,1 +1,1 @@
-module.exports = require('titanium-barcode');
+module.exports = require('ti.barcode');

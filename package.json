@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/barcode",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)",
 	"main": "index.js",
 	"scripts": {
@@ -43,11 +43,11 @@
 	],
 	"titanium": {
 		"type": "native-module",
-		"version": "1.0.6",
-		"moduleid": "titanium-barcode",
-		"name": "titanium-barcode",
 		"platform": {
 			"ios": {
+				"moduleid": "ti.barcode",
+				"name": "barcode",
+				"version": "2.0.4",
 				"apiversion": 2,
 				"architectures": [
 					"armv7",
@@ -59,6 +59,9 @@
 				"guid": "fe2e658e-0eaf-44a6-b6d1-c074d6b986a3"
 			},
 			"android": {
+				"moduleid": "ti.barcode",
+				"name": "barcode",
+				"version": "4.0.2",
 				"apiversion": 4,
 				"architectures": [
 					"arm64-v8a",
@@ -71,6 +74,6 @@
 		}
 	},
 	"dependencies": {
-		"@titanium/tiapp-xml": "^0.9.1"
+		"@titanium/tiapp-xml": ">=0.9.4"
 	}
 }

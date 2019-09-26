@@ -1,17 +1,26 @@
+
+<a href="#titaniumbarcode">
+	<p align="center">
+	<img src="https://cdn.secure-api.org/images/warning-sign-area51.png" width="80%" />
+	<img src="https://cdn.secure-api.org/images/border-line-3.png" width="70%" height="50" />
+	</p>
+</a>
+
+
 # @titanium/barcode
 
-![https://www.npmjs.com/package/@titanium/barcode](https://img.shields.io/npm/v/@titanium/barcode.png)
+[![@titanium/barcode](https://img.shields.io/npm/v/@titanium/barcode.png)](https://www.npmjs.com/package/@titanium/barcode)
 
 
 > Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)
 
-- [📝 Description](#-Description)
-- [🚀 Getting Started](#-Getting-Started)
-	- [Using barcode scanner](#Using-barcode-scanner)
-- [✨Features](#Features)
-- [📚Learn More](#Learn-More)
-- [📣 Feedback](#-Feedback)
-- [©️ Legal](#️-Legal)
+* [📝 Description](#-description)
+* [🚀 Getting Started](#-getting-started)
+	* [Using barcode scanner](#using-barcode-scanner)
+* [✨Features](#features)
+* [📚Learn More](#learn-more)
+* [📣 Feedback](#-feedback)
+* [©️ Legal](#️-legal)
 
 
 ## 📝 Description

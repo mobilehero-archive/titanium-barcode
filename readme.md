@@ -10,6 +10,7 @@
 # @titanium/barcode
 
 [![@titanium/barcode](https://img.shields.io/npm/v/@titanium/barcode.png)](https://www.npmjs.com/package/@titanium/barcode)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=brentonhouse/titanium-barcode)](https://dependabot.com)
 
 
 > Titanium native mobile barcode module built on top of the ZXing library (Android) and AVFoundation (iOS)

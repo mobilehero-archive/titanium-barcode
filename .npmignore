@@ -2,8 +2,9 @@
 .eslintrc.yaml
 .eslintrc
 .eslintrc.yml
-.dependabot
 
+.dependabot
+.github
 
 # OS Directories and Files
 .DS_Store

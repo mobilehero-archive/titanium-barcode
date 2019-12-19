@@ -26,7 +26,7 @@
 
 ## 📝 Description
 
-This is a repackaging of the compiled iOS and Android modules for [Ti.ImageFactory](https://github.com/appcelerator-modules/ti.barcode) to allow for installation via npm.
+This is a repackaging of the compiled iOS and Android modules for [ti.barcode](https://github.com/appcelerator-modules/ti.barcode) to allow for installation via npm.
 
 ## 🚀 Getting Started
 
@@ -38,8 +38,8 @@ npm install @titanium/barcode
 
 ### Using barcode scanner
 
-```
-const barcode = require('ti.barcode');
+```javascript
+const barcode = require('@titanium/barcode');
 
 barcode.allowRotation = true;
 barcode.displayedMessage = ' ';
@@ -62,8 +62,8 @@ barcode.capture({
 
 ## ✨Features
 
-iOS: `ti.barcode 2.0.4`
-Android: `ti.barcode 4.0.2`
+iOS: `ti.barcode 2.0.4`   
+Android: `ti.barcode 4.0.2`   
 
 
 ## 📚Learn More

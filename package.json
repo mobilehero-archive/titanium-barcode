@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/barcode",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "⭐  Axway Amplify module for scanning barcodes with Appcelerator Titanium SDK",
 	"main": "index.js",
 	"scripts": {

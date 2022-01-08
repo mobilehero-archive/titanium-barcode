@@ -1,3 +1,4 @@
+[//]: # (header-start)
 
 <a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
 	<h1 align="center">
@@ -24,6 +25,8 @@
 <hr>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+[//]: # (header-end)
 
 # @titanium/barcode
 

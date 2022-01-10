@@ -1,12 +1,12 @@
 [//]: # (header-start)
 
 <a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
-	<h1 align="center">
-	👇 &nbsp; See notes below  &nbsp; 👇
-</h1>	
+<h1 align="center">
+	Axway Amplify End-of-Life Announcement
+</h1>
 <h2 align="center">
-	Regarding Axway Amplify End-of-Life Announcement
-	</h2>
+	👇 &nbsp; See notes below  &nbsp; 👇
+</h2>	
 </a>
 
 <a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
